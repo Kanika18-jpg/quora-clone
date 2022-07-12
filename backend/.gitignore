@@ -1,0 +1,4 @@
+node_modules
+
+# gitignore file is a text file that tells Git which files or folders to ignore in a project. 
+#A local . gitignore file is usually placed in the root directory of a project. You can also create a global 
